@@ -8,6 +8,13 @@
 <!-- About me -->
 
 ## About me
+
+<!-- STATISTICS -->
+<div style="display:grid;align-items:center;justify-content:center">
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=sahdibernardi&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahdibernardi&theme=tokyonight&hide_border=true"/>
+</div>
+
 <p>
 I'm an extremely creative person, who loves problem solving and who's passionate about entrepreneurship and technology. My true vocation is with innovation and technology.
 
@@ -24,7 +31,6 @@ I have a passion for learning new things and any intellectual challenges. I'm cu
 
 
 <!-- Trophies -->
-### Statistics
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=sahdibernardi&theme=tokyonight&column=7" alt="sahdibernardi" /></a> </p>
 
 
@@ -51,7 +57,7 @@ I have a passion for learning new things and any intellectual challenges. I'm cu
 - Jest and RTL
 - Redux
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,vue,nextjs,ts,express,jest,redux,html,css,py,django,sass,sequelize,tailwind,bootstrap" />
   </a>
@@ -62,13 +68,13 @@ I have a passion for learning new things and any intellectual challenges. I'm cu
 - MongoDB
 - Postgres
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
   </a>
 </p>
 
-## Tools
+### Tools
 - AWS
 - Docker
 - Github and Git
@@ -81,19 +87,11 @@ I have a passion for learning new things and any intellectual challenges. I'm cu
 - Vercel
 - Bubble
 - VSCode
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,github,git,vite,vscode,figma,xd,wordpress,vercel" />
   </a>
 </p>
-
-
-<!-- STATISTICS -->
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=sahdibernardi&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahdibernardi&theme=tokyonight&hide_border=true"/>
-</div>
-
 
 
 <!-- CONTACTO -->
@@ -102,8 +100,7 @@ I have a passion for learning new things and any intellectual challenges. I'm cu
 <p>
 You can contact me on the following social media platforms, or via email on sahra.developer@gmail.com
 </p>
-<h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sahradibernardi/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
