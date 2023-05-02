@@ -7,7 +7,7 @@
 
 <!-- About me -->
 
-##About me
+## About me
 <p>
 I'm an extremely creative person, who loves problem solving and who's passionate about entrepreneurship and technology. My true vocation is with innovation and technology.
 
@@ -35,7 +35,7 @@ I have a passion for learning new things and any intellectual challenges. I'm cu
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahdibernardi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-#### Languages and Frameworks
+### Languages and Frameworks
 - JavaScript
 - React.js
 - Node.js
@@ -57,7 +57,7 @@ I have a passion for learning new things and any intellectual challenges. I'm cu
   </a>
 </p>
 
-#### Databases
+### Databases
 - MySQL
 - MongoDB
 - Postgres
@@ -68,7 +68,7 @@ I have a passion for learning new things and any intellectual challenges. I'm cu
   </a>
 </p>
 
-### Tools
+## Tools
 - AWS
 - Docker
 - Github and Git
@@ -97,7 +97,7 @@ I have a passion for learning new things and any intellectual challenges. I'm cu
 
 
 <!-- CONTACTO -->
-### Contact Me!
+## Contact Me!
 
 <p>
 You can contact me on the following social media platforms, or via email on sahra.developer@gmail.com
