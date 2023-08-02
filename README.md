@@ -20,14 +20,14 @@ I'm an extremely creative person, who loves problem solving and who's passionate
 
 I'm 26 years old and I'm from Florianópolis/Brazil. I consider myself to be a highly communicative person with a strong background on soft-skills. I'm passionate about anything tech related and before finding myself as a Developer, I've worked and a tech lawyer for 3 years.
 
-I have a passion for learning new things and any intellectual challenges. I'm currently relocating to Canada 🇨🇦.
+I have a passion for learning new things and any intellectual challenges.
 </p>
 
 - 📚 I've studied at [Trybe](https://www.betrybe.com/)
 
 - 🏙 I talk about tech and Coding at[Developer Nomad's Tiktok](https://www.tiktok.com/@developernomad)
 
-- 🏗️ I'm currently building my portfolio.
+<!-- 🏗️ I'm currently building my portfolio. -->
 
 
 <!-- Trophies -->
