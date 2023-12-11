@@ -26,14 +26,18 @@ I have a passion for learning new things and any intellectual challenges.
 </p>
 
 
-- 🏙 I talk about tech and Coding at[Developer Nomad's Tiktok](https://www.tiktok.com/@developernomad)
+- 🏙 I talk about tech and Coding at [Developer Nomad's Tiktok](https://www.tiktok.com/@developernomad) and at my [Linkedin Profile](https://www.linkedin.com/in/sahradibernardi/)
 
 - 🔭 I’m currently working on:
-     - [Truther App](https://www.truther.to/)
-     - [BCX Corretora](https://bcxcorretora.com.br/)
-     - [Nectus](https://nectusapp.com)
+     - [RD Station Marketing - Automation Team](https://www.rdstation.com/?utm_source=search&utm_medium=cpc&utm_campaign=BR-INB-MULTIPRODUCT-SEARCH-INST-RD_STATION_ONLY_EXACT&utm_content=rd-station_only&utm_term=rd%20station-e&gad_source=1&gclid=CjwKCAiAg9urBhB_EiwAgw88mZkDQJzvyGBq0jE1UN1BjxlEDqTDigJVAnGbK1ikrSFY1GFgxAEcYhoC4AoQAvD_BwE)
 
-- 📚 I'm always leaning something new!  I'm currently learning: React Native, perfecting my skills in React and learning Backend in Ruby on Rails.
+
+- 🧮 Some projects I've worked on:
+     - [Truther - App](https://www.truther.to/)
+     - [BCX Corretora - Software and website](https://bcxcorretora.com.br/)
+     - [Nectus - Website](https://nectusapp.com)
+
+- 📚 I'm always leaning something new!  I'm currently: Perfecting my skills in React and learning Backend in Ruby on Rails.
 
 <!-- 🏗️ I'm currently building my portfolio. -->
 
