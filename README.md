@@ -20,7 +20,9 @@
 <p>
 I'm an extremely creative person, who loves problem solving and who's passionate about entrepreneurship and technology. My true vocation is with innovation and technology.
 
-I'm 26 years old and I'm from Florianópolis/Brazil. I consider myself to be a highly communicative person with a strong background on soft-skills. I'm passionate about anything tech related and before finding myself as a Developer, I've worked and a tech lawyer for 3 years.
+I'm 26 years old and I'm from Florianópolis/Brazil. I consider myself to be a highly communicative person with a strong background on soft-skills. 
+I've 3 years of Software Engineering experience, most of it dedicate to JavaScript (more specifically React.js and Node.js).
+I'm passionate about anything tech related and before finding myself as an Engineer, I used to work as a tech lawyer.
 
 I have a passion for learning new things and any intellectual challenges.
 </p>
