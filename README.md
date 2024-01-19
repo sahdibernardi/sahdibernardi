@@ -34,7 +34,8 @@ I have a passion for learning new things and any intellectual challenges.
      - [RD Station Marketing - Automation Team](https://www.rdstation.com/?utm_source=search&utm_medium=cpc&utm_campaign=BR-INB-MULTIPRODUCT-SEARCH-INST-RD_STATION_ONLY_EXACT&utm_content=rd-station_only&utm_term=rd%20station-e&gad_source=1&gclid=CjwKCAiAg9urBhB_EiwAgw88mZkDQJzvyGBq0jE1UN1BjxlEDqTDigJVAnGbK1ikrSFY1GFgxAEcYhoC4AoQAvD_BwE)
 
 
-- 🧮 Some projects I've worked on:
+- 🧮 Some cool projects I've worked on:
+     - [RD Station Marketing - Platform and Microfront-end](https://www.rdstation.com/produtos/marketing/)
      - [Truther - App](https://www.truther.to/)
      - [BCX Corretora - Software and website](https://bcxcorretora.com.br/)
      - [Nectus - Website](https://nectusapp.com)
