@@ -10,39 +10,39 @@
 ## About me
 
 <!-- STATISTICS -->
-<!--
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 100%; max-height: 164px" src="https://github-readme-stats.vercel.app/api?username=sahdibernardi&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true"/>
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahdibernardi&theme=tokyonight&hide_border=true"/>
 </div>
--->
+
 
 <p>
 I'm an extremely creative person, who loves problem solving and who's passionate about entrepreneurship and technology. My true vocation is with innovation and technology.
 
-I'm 26 years old and I'm from Florianópolis/Brazil. I consider myself to be a highly communicative person with a strong background on soft-skills. 
-I've 3 years of Software Engineering experience, most of it dedicate to JavaScript (more specifically React.js and Node.js).
-I'm passionate about anything tech related and before finding myself as an Engineer, I used to work as a tech lawyer.
+I'm 28 years old and I'm from Florianópolis/Brazil working fully remotely. I consider myself to be a highly communicative person with a strong background on soft-skills. 
+I've 3.5 years of Software Engineering experience, most of it dedicate to JavaScript and TypeScript (more specifically React.js, Next.js and Node.js).
+I'm passionate about anything tech related and before finding myself as an Engineer a long time ago, I used to work as a tech lawyer.
 
 I have a passion for learning new things and any intellectual challenges.
 </p>
 
+- 🏗️ Checkout my Portfolio [here](https://sahra.vercel.app/).
 
-- 🏙 I talk about tech and Coding at [Developer Nomad's Tiktok](https://www.tiktok.com/@developernomad) and at my [Linkedin Profile](https://www.linkedin.com/in/sahradibernardi/)
+- 🏙 I talk about tech and Coding at [Code With Sah's Tiktok](https://www.tiktok.com/@codewithsah) and at my [Linkedin Profile](https://www.linkedin.com/in/sahradibernardi/)
 
 - 🔭 I’m currently working on:
-     - [RD Station Marketing - Automation Team](https://www.rdstation.com/?utm_source=search&utm_medium=cpc&utm_campaign=BR-INB-MULTIPRODUCT-SEARCH-INST-RD_STATION_ONLY_EXACT&utm_content=rd-station_only&utm_term=rd%20station-e&gad_source=1&gclid=CjwKCAiAg9urBhB_EiwAgw88mZkDQJzvyGBq0jE1UN1BjxlEDqTDigJVAnGbK1ikrSFY1GFgxAEcYhoC4AoQAvD_BwE)
+     - [RD Station Conversas](https://www.rdstation.com/produtos/conversas/)
+     - [Dodoor](https://www.dodoor.com.br)
 
 
 - 🧮 Some cool projects I've worked on:
      - [RD Station Marketing - Platform and Microfront-end](https://www.rdstation.com/produtos/marketing/)
+     - [RD Station Marketing - Automation Team](https://www.rdstation.com/?utm_source=search&utm_medium=cpc&utm_campaign=BR-INB-MULTIPRODUCT-SEARCH-INST-RD_STATION_ONLY_EXACT&utm_content=rd-station_only&utm_term=rd%20station-e&gad_source=1&gclid=CjwKCAiAg9urBhB_EiwAgw88mZkDQJzvyGBq0jE1UN1BjxlEDqTDigJVAnGbK1ikrSFY1GFgxAEcYhoC4AoQAvD_BwE)
      - [Truther - App](https://www.truther.to/)
      - [BCX Corretora - Software and website](https://bcxcorretora.com.br/)
      - [Nectus - Website](https://nectusapp.com)
 
-- 📚 I'm always leaning something new!  I'm currently: Perfecting my skills in React and learning Backend in Ruby on Rails.
-
-<!-- 🏗️ I'm currently building my portfolio. -->
+- 📚 I'm always leaning something new!  I'm currently: Perfecting my skills in React/Next.js and learning Backend in Ruby on Rails.
 
 
 <!-- Trophies -->
@@ -61,13 +61,10 @@ I have a passion for learning new things and any intellectual challenges.
 - React.js
 - Node.js
 - TypeScript
-- Vue.js
 - Next.js
 - React Native
 - Nest
-- Prisma
 - Python
-- Django
 - HMTL | CSS
 - Bootstrap | Sass | Tailwind
 - Express
@@ -93,7 +90,7 @@ I have a passion for learning new things and any intellectual challenges.
 </p>
 
 ### Tools
-- AWS
+- AWS (certified Cloud Practioneer 2023)
 - Docker
 - Github and Git
 - UX/UI
@@ -122,7 +119,7 @@ You can contact me on the following social media platforms, or via email on sahr
   <a href="https://www.linkedin.com/in/sahradibernardi/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/developernomad/">
+  <a href="https://www.instagram.com/codewithsah/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
@@ -132,7 +129,7 @@ You can contact me on the following social media platforms, or via email on sahr
 
 ------
 
-Last Edited on: 01/05/2023
+Last Edited on: 10/02/2025
 
 
 
