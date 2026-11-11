@@ -21,8 +21,8 @@
 <p>
 I'm an extremely creative person, who loves problem solving and who's passionate about entrepreneurship and technology. My true vocation is with innovation and technology.
 
-I'm 28 years old and I'm from Florianópolis/Brazil working fully remotely. I consider myself to be a highly communicative person with a strong background on soft-skills. 
-I've 3.5 years of Software Engineering experience, most of it dedicate to JavaScript and TypeScript (more specifically React.js, Next.js and Node.js).
+I'm 30 years old and I'm from Florianópolis/Brazil working fully remotely. I consider myself to be a highly communicative person with a strong background on soft-skills. 
+I've 5 years of Software Engineering experience, most of it dedicate to JavaScript and TypeScript (more specifically React.js, Next.js and Node.js).
 I'm passionate about anything tech related and before finding myself as an Engineer a long time ago, I used to work as a tech lawyer.
 
 I have a passion for learning new things and any intellectual challenges.
